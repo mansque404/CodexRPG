@@ -1,0 +1,8 @@
+C:\Users\Mahanscoe\source\repos\CodexRPG\CodexRPG\obj\Debug\CodexRPG.csproj.AssemblyReference.cache
+C:\Users\Mahanscoe\source\repos\CodexRPG\CodexRPG\obj\Debug\CodexRPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahanscoe\source\repos\CodexRPG\CodexRPG\obj\Debug\CodexRPG.csproj.CoreCompileInputs.cache
+C:\Users\Mahanscoe\source\repos\CodexRPG\CodexRPG\bin\Debug\CodexRPG.exe.config
+C:\Users\Mahanscoe\source\repos\CodexRPG\CodexRPG\bin\Debug\CodexRPG.exe
+C:\Users\Mahanscoe\source\repos\CodexRPG\CodexRPG\bin\Debug\CodexRPG.pdb
+C:\Users\Mahanscoe\source\repos\CodexRPG\CodexRPG\obj\Debug\CodexRPG.exe
+C:\Users\Mahanscoe\source\repos\CodexRPG\CodexRPG\obj\Debug\CodexRPG.pdb
